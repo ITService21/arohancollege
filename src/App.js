@@ -62,8 +62,8 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="catalog/:catalogName" element={<Catalog />} />
         <Route path="courses/:courseId" element={<CourseDetails />} />
-        <Route path="/why-oc" element={<Why />} />
-        <Route path="/our-director" element={<DirectorMessage />} />
+        <Route path="/why-arohan" element={<Why />} />
+        <Route path="/our-chairman" element={<DirectorMessage />} />
         <Route path="/mission-vision" element={<MissionVision />} />
         <Route path="/student-journey" element={<FacilitiesWEProvide />} />
         <Route path="/album" element={<Album />} />

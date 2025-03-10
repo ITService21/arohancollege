@@ -1,10 +1,18 @@
 export const academicTeam = [
     {
-        title:"Chairmain & Managing Director",
+        title:"Chairman & Managing Director",
         name:"Sumit Singh",
-        education:"B.Tech from NIT Patna",
+        // education:"B.Tech from NIT",
         photo:"/images/director1.jpg"
     },
+
+    {
+        title:"Vice Chairman",
+        name:"KALAYNI BHOI",
+        // education:"B. Tech. from NIT Patna",
+        photo:"/images/Team4.jpeg"
+    },
+
     {
         title:"Director - Academic",
         name:"Suraj Bhaisal",
@@ -12,7 +20,7 @@ export const academicTeam = [
         photo:"/images/Team1.jpeg"
     },
     {
-        title:"Excutive Director",
+        title:"Assistant Managing Director(AMD)",
         name:"SATYAJIT DALAI",
         // education:"B. Tech. from NIT Patna",
         photo:"/images/Team2.jpg"
@@ -23,10 +31,5 @@ export const academicTeam = [
         // education:"B. Tech. from NIT Patna",
         photo:"/images/Team3.jpg"
     },
-    {
-        title:"Vice Chairman",
-        name:"KALAYNI BHOI",
-        // education:"B. Tech. from NIT Patna",
-        photo:"/images/Team4.jpeg"
-    }
+    
 ]

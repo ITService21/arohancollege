@@ -31,12 +31,13 @@ function AcademicTeam() {
                 alt={teacher?.name}
                 className="w-[180px] h-[180px] md:w-[250px] md:h-[250px] mx-auto rounded-full shadow-md border-4 border-blue-300"
               />
-              <h3 className="font-sans font-bold text-[22px] md:text-[26px] text-blue-700 text-center mt-4">
-                {teacher?.title}
-              </h3>
               <p className="font-serif font-semibold text-[20px] md:text-[24px] text-gray-700 text-center mt-2">
                 {teacher?.name}
               </p>
+              <h3 className="font-sans font-bold text-[22px] md:text-[26px] text-blue-700 text-center mt-4">
+                {teacher?.title}
+              </h3>
+
               <p className="font-mono font-medium text-[18px] md:text-[20px] text-gray-600 text-center mt-1">
                 {teacher?.education}
               </p>

@@ -10,12 +10,12 @@ export const NavbarLinks = [
     link: null,
     subLinks: [
       {
-        name: "Why Optimal Classess",
-        link: "/why-oc",
+        name: "Why Arohan College",
+        link: "/why-arohan",
       },
       {
-        name: "Our Director",
-        link: "/our-director",
+        name: "Our Chairman ",
+        link: "/our-chairman",
       },
       {
         name: "Mission & Vision",

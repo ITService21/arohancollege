@@ -2,19 +2,19 @@ import React from "react";
 
 const courses = [
   {
-    "name": "CBSE & CHSE +2 Science Program",
-    "description": "Join our CBSE & CHSE +2 Science program and get the best education for 11th & 12th grade. Our school and coaching center provide high-quality teaching, experienced faculty, and a focused learning environment to help students excel in Physics, Chemistry, Mathematics, and Biology. We offer personalized guidance, doubt-clearing sessions, and regular tests to ensure strong conceptual understanding. Whether you aim for board exams, JEE, NEET, or other competitive exams, we prepare you for success.",
-    "image": "/images/CBSE_CHSE_Science.jpeg",  // Replace with actual image URL
+    "name": "CBSE & CHSE +2 Science (Class 11)",
+    "description": "Enroll in our CBSE & CHSE +2 Science program for Class 11 and build a strong foundation in Physics, Chemistry, Mathematics, and Biology. Our coaching center provides expert guidance, personalized mentoring, and rigorous test series to prepare students for board exams and competitive entrance tests like JEE and NEET.",
+    "image": "/images/SparksClass8_.jpeg",  // Replace with actual image URL
+    "totalFee": "₹ XX,XXX",  // Add the total fee amount
+    "installments": ["₹ X,XXX", "₹ X,XXX", "₹ X,XXX"]  // Add installment details
+  },
+  {
+    "name": "CBSE & CHSE +2 Science (Class 12)",
+    "description": "Our CBSE & CHSE +2 Science program for Class 12 is designed to ensure excellence in board exams and competitive tests. With expert faculty, structured study materials, and regular doubt-clearing sessions, students receive the best preparation for JEE, NEET, and other competitive exams.",
+    "image": "/images/SparksClass8_.jpeg",  // Replace with actual image URL
     "totalFee": "₹ XX,XXX",  // Add the total fee amount
     "installments": ["₹ X,XXX", "₹ X,XXX", "₹ X,XXX"]  // Add installment details
   }
-  // {
-  //   name: "Spark (for class VIII)",
-  //   description: "Ignite the spark of learning with our advanced curriculum for Class VIII.",
-  //   image: "/images/SparksClass8_.jpeg", // Replace with the actual image URL
-  //   totalFee: "₹ 20,400",
-  //   installments: ["₹ 8,200", "₹ 8,200", "₹ 4,000"],
-  // },
   // {
   //   name: "Maverick (for class IX)",
   //   description: "Empower young minds to excel in Class IX with a comprehensive learning experience.",

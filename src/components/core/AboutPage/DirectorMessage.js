@@ -34,7 +34,7 @@ function DirectorMessage() {
       </div>
       <div className=" bg-gradient-to-b from-[#BFF098] to-[#6FD6FF] pb-[80px]">
         <h1 className="text-[#ff3434] text-[36px] md:text-[42px] lg:text-[50px] font-rubik-vinyl font-bold text-center pt-10">
-          Our Director
+        Our Chairman 
         </h1>
         <div className=" grid grid-cols-1 md:grid-cols-2 md:gap-6 px-4 md:px-10 ">
           <div className="flex flex-col">
@@ -73,7 +73,10 @@ function DirectorMessage() {
                   Director
                 </p>
                 <p class="text-md font-medium text-gray-600 mt-3 italic bg-yellow-50 px-4 py-1 rounded-full shadow-sm inline-block border-b-4 border-green-300">
-                  B.Tech from NIT Patna (Electrical Engineering)
+                  B.Tech from NIT 
+                </p> <br/>
+                <p class="text-md font-medium text-gray-600 mt-3 italic bg-yellow-50 px-4 py-1 rounded-full shadow-sm inline-block border-b-4 border-green-300">
+                M.Tech , Phd , 3 Times Gate Qualified 
                 </p>
               </div>
 

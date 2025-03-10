@@ -29,16 +29,16 @@ const Media = [
 
 const Courses = [
   {
-    name: "Class 7 to 10",
-    link: "/class-7t10",
-  },
-  {
     name: "Class 11 to 12",
     link: "/class-11t12",
   },
   {
-    name: "IIT-JEE / NEET",
-    link: "/iit-jee-neet",
+    name: "Class IIT to JEE",
+    link: "/class-IIT-JEE",
+  },
+  {
+    name: "Medical NEET",
+    link: "/neet-medical",
   },
 ];
 const ContactUs = [
@@ -75,8 +75,8 @@ const Insights = [
 ];
 const AboutUs = [
   {
-    name: "Our Director",
-    link: "/our-director",
+    name: "Our Chairman ",
+    link: "/our-chairman",
   },
   {
     name: "Mission & Vision",

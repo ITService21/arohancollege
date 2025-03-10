@@ -2,19 +2,19 @@ import React from "react";
 
 const courses = [
   {
-    "name": "IIT-JEE (Main & Advanced) Coaching",
-    "description": "Prepare for IIT-JEE (Main & Advanced) with our comprehensive coaching program designed to help students build strong problem-solving skills and deep conceptual understanding. Our experienced faculty, structured curriculum, and result-oriented approach ensure success in Physics, Chemistry, and Mathematics. We provide personalized mentoring, doubt-clearing sessions, regular tests, and in-depth performance analysis to track progress. With a competitive learning environment, advanced study materials, and strategic guidance, we help students achieve top ranks in JEE.",
-    "image": "/images/IIT_JEE_Coaching.jpeg",  // Replace with actual image URL
+    "name": "IIT-JEE (Main) Classes",
+    "description": "Our IIT-JEE (Main) Classes program is designed to strengthen students' conceptual understanding in Physics, Chemistry, and Mathematics. With a structured curriculum, experienced faculty, and regular practice tests, we ensure students build problem-solving skills essential for cracking JEE Main. We provide personalized mentoring, doubt-clearing sessions, and strategic study plans to maximize performance in the exam.",
+    "image": "/images/IIT_JEE_Main.jpeg",  // Replace with actual image URL
+    "totalFee": "₹ XX,XXX",  // Add the total fee amount
+    "installments": ["₹ X,XXX", "₹ X,XXX", "₹ X,XXX"]  // Add installment details
+  },
+  {
+    "name": "IIT-JEE (Advanced) Classes",
+    "description": "Our IIT-JEE (Advanced) Classes program is designed for students aiming to secure top ranks in JEE Advanced and get admission into IITs. With an advanced curriculum, in-depth problem-solving techniques, and focused mentorship, we ensure students develop strong analytical skills. Our rigorous test series, detailed performance analysis, and competitive learning environment help students excel in this highly challenging exam.",
+    "image": "/images/IIT_JEE_Advanced.jpeg",  // Replace with actual image URL
     "totalFee": "₹ XX,XXX",  // Add the total fee amount
     "installments": ["₹ X,XXX", "₹ X,XXX", "₹ X,XXX"]  // Add installment details
   }
-  // {
-  //   name: "Gurus (for class XII)",
-  //   description: "Master your subjects with advanced learning strategies for Class XII.",
-  //   image: "/images/GurusClass12_.jpeg", // Replace with the actual image URL
-  //   totalFee: "₹ 45,600",
-  //   installments: ["₹ 18,200", "₹ 18,200", "₹ 9,200"],
-  // },
 ];
 
 const FeeStructure = () => {
