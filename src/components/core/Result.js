@@ -2,7 +2,7 @@ import React from "react";
 import { studentsResult } from "../../data/results";
 // {
 //     year: 2024,
-//     heading: "Best Performance Students in Acedemic 2024 from Optimal Classes",
+//     heading: "Best Performance Students in Acedemic 2024 from Arohan College",
 //     class12: [{ above90: 30, above80: 45, above70: 64, firstDivision: 87 }],
 //     class10: [{ above90: 30, above80: 45, above70: 64, firstDivision: 87 }],
 //     class9: [{ above90: 30, above80: 45, above70: 64, firstDivision: 87 }],

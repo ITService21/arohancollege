@@ -25,7 +25,7 @@ const Features = () => {
             >
               Searching for a top coaching institute in Odisha that ensures
               academic excellence for students in Class 11 & 12 (CBSE & CHSE +2
-              Science), IIT-JEE, and NEET? Your search ends here! Aarohan Higher
+              Science), IIT-JEE, and NEET? Your search ends here! Arohan  Higher
               Secondary School is dedicated to shaping young minds through
               quality education, conceptual clarity, and result-oriented
               learning. With a team of highly experienced faculty, we simplify
@@ -35,7 +35,7 @@ const Features = () => {
               methods make learning both effective and enjoyable.
               <br />
               <br />
-              At Aarohan, we understand that every student has a unique learning
+              At Arohan , we understand that every student has a unique learning
               style. That’s why we offer personalized mentoring, interactive
               doubt-clearing sessions, and regular assessments to ensure
               consistent progress. Our comprehensive study materials, weekly
@@ -45,7 +45,7 @@ const Features = () => {
               reinforcement to help students perform at their best.
               <br />
               <br />
-              Located in Odisha, Aarohan Higher Secondary School provides a
+              Located in Odisha, Arohan  Higher Secondary School provides a
               disciplined, goal-oriented, and student-centric learning
               environment. We focus on the core academic needs of students while
               preparing them for future success in engineering and medical

@@ -30,11 +30,11 @@ const AboutSection = () => {
         <div className="w-full lg:w-1/2 flex flex-col gap-10 py-8">
           <h1 className="text-4xl text-white font-semibold text-center">
             What do you think about us?{" "}
-            <HighlightText text={"Aarohan Higher Secondary School"} />
+            <HighlightText text={"Arohan  Higher Secondary School"} />
           </h1>
 
           <p className="text-[16px] text-justify text-richblack-200 -mt-6">
-            At Aarohan Higher Secondary School, we believe that every student
+            At Arohan  Higher Secondary School, we believe that every student
             has the potential to achieve excellence with the right guidance and
             resources. Our mission is to provide a supportive and dynamic
             learning environment that not only enhances academic performance but
@@ -45,7 +45,7 @@ const AboutSection = () => {
             with specialized coaching for <strong>IIT-JEE and NEET</strong>.
             With an expert faculty, advanced digital tools, and a student-first
             approach, we empower learners to excel in board exams and
-            competitive entrance tests. At Aarohan, your success is our
+            competitive entrance tests. At Arohan , your success is our
             commitment.
           </p>
 

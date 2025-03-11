@@ -41,7 +41,7 @@ function Why() {
             <div
               className={`text-black text-[18px] font-cinzel  my-[40px] text-justify flex md:gap-5 flex-col transition-all duration-300`}
             >
-              Established on 17th March 2017, Aarohan Higher Secondary School is
+              Established on 17th March 2017, Arohan  Higher Secondary School is
               a leading institution dedicated to academic excellence in CBSE &
               CHSE +2 Science, IIT-JEE, and NEET preparation. Our expert faculty
               ensures strong conceptual clarity in Physics, Chemistry,
@@ -59,7 +59,7 @@ function Why() {
               and exam confidence.
               <br />
               <br />
-              At Aarohan, we foster a disciplined and goal-oriented environment
+              At Arohan , we foster a disciplined and goal-oriented environment
               where students not only achieve academic success but also develop
               problem-solving skills, logical reasoning, and analytical
               thinking. Our commitment to consistent improvement and
@@ -67,7 +67,7 @@ function Why() {
               ranks in board exams and competitive entrance tests.
               <br />
               <br />
-              With a proven track record of success, Aarohan Higher Secondary
+              With a proven track record of success, Arohan  Higher Secondary
               School is the ideal choice for students striving for excellence.
               Your success is our mission!
               <br />

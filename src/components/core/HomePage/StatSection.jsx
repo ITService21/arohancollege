@@ -33,7 +33,7 @@ const StatsSection = () => {
             </svg>
           </span>
           <span className="relative z-10 text-black mb-4 block transition-opacity duration-200 text-justify p-6">
-          Best coaching centre for students. Teachers are polite and so cooperative . In this centre i get a friendly and welcoming atmosphere. The staffs and teachers are supportive and have excellent experience. The facilitys are best and the environment helps us to achieve personal growth. Equal attention was given to every individual which is the best part of AAROHAN COACHING CENTRE. Best coaching centre in sundargarh. THANK YOU.
+          Best coaching centre for students. Teachers are polite and so cooperative . In this centre i get a friendly and welcoming atmosphere. The staffs and teachers are supportive and have excellent experience. The facilitys are best and the environment helps us to achieve personal growth. Equal attention was given to every individual which is the best part of Arohan  COACHING CENTRE. Best coaching centre in sundargarh. THANK YOU.
           </span>
           {/* <div className="relative z-10 w-[140px] mx-auto">
             <img src="/images/AnasSiddiqui_.jpeg" className="" alt="..." />
@@ -82,7 +82,7 @@ const StatsSection = () => {
             </svg>
           </span>
           <span className="relative z-10 text-black mb-4 block transition-opacity duration-200 text-justify p-6">
-          I would like to suggest you all to join AAROHAN GROUP OF EDUCATION...It is a best coaching centre in sundargarh for Science students. Really the teachers are very friendly, supportive and they encourage students and behaves like a family and I feel that Aarohan is also my family.They celebrates all festival with great happiness and enthusiasm.They teach hard subjects in a easy way and their teaching style is very comfortable nd effective.Really I am very happy to join in this coaching centre🙂👍🏻
+          I would like to suggest you all to join Arohan  GROUP OF EDUCATION...It is a best coaching centre in sundargarh for Science students. Really the teachers are very friendly, supportive and they encourage students and behaves like a family and I feel that Arohan  is also my family.They celebrates all festival with great happiness and enthusiasm.They teach hard subjects in a easy way and their teaching style is very comfortable nd effective.Really I am very happy to join in this coaching centre🙂👍🏻
           </span>
           {/* <div className="relative z-10 w-[140px] mx-auto">
             <img src="/images/SakshiSrivastava_.jpeg" className="" alt="..." />

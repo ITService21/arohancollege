@@ -54,7 +54,7 @@ function MissionVision() {
                   Our Misson
                 </h2>
                 <p className="px-[6px]">
-                  At AAROHAN GROUP OF EDUCATION, we nurture holistic development, consistently improve our academic programs, and promote solution-oriented thinking.
+                  At Arohan  GROUP OF EDUCATION, we nurture holistic development, consistently improve our academic programs, and promote solution-oriented thinking.
                   Committed to establishing a strong alumni network, we simultaneously maintain deep connections with our nation and environment, solidifying our position as the fastest-growing Institution.
                 </p>
               </div>

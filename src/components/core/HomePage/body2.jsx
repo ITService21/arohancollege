@@ -47,7 +47,7 @@ const PerfectPlatform = () => {
           </div>
           {/* Description */}
           <span className="relative z-10 text-black mb-4 block transition-opacity duration-200 text-justify">
-            At Aarohan Higher Secondary School, we provide a strong academic
+            At Arohan  Higher Secondary School, we provide a strong academic
             foundation for 11th and 12th-grade students under the CBSE & CHSE
             (+2 Science) curriculum. Our school and coaching program ensures
             that students receive in-depth subject knowledge, practical
@@ -62,7 +62,7 @@ const PerfectPlatform = () => {
           <Link
             type="button"
             className="relative z-10 text-center text-[16px] text-roboto sm:text-[16px] w-[260px] md:w-[80%] py-2 font-bold rounded-full bg-[#ff5218] hover:bg-[#ff855c] transition-all duration-100 text-white mt-4 mb-4"
-            to="/class-7t10"
+            to="/class-11t12"
             onClick={scrollToTop}
           >
             Learn more
@@ -84,7 +84,7 @@ const PerfectPlatform = () => {
           </div>
           {/* Description */}
           <span className="relative z-10 text-black mb-4 block transition-opacity duration-200 text-justify">
-            Aarohan Higher Secondary School offers specialized coaching for
+            Arohan  Higher Secondary School offers specialized coaching for
             IIT-JEE (Main & Advanced) aspirants, focusing on concept-based
             learning and problem-solving techniques. Our structured curriculum
             covers Physics, Chemistry, and Mathematics, ensuring students master
@@ -99,11 +99,12 @@ const PerfectPlatform = () => {
           <Link
             type="button"
             className="relative z-10 text-center text-[16px] text-roboto sm:text-[16px] w-[260px] md:w-[80%] py-2 font-bold rounded-full bg-[#ff5218] hover:bg-[#ff855c] transition-all duration-100 text-white mt-4 mb-4"
-            to="/class-11t12"
+            to="/class-IIT-JEE"
             onClick={scrollToTop}
           >
             Learn more
           </Link>
+
           {/* Hover Overlay (Optional for Visual Feedback) */}
           <div className="absolute inset-0 bg-transparent group-hover:bg-[#e1e1e1] transition-all duration-200"></div>
         </div>
@@ -123,7 +124,7 @@ const PerfectPlatform = () => {
           <span className="relative z-10 text-black mb-4 block transition-opacity duration-200 text-justify">
             For students aiming for a career in medicine, our NEET coaching
             program provides comprehensive training in Physics, Chemistry, and
-            Biology. At Aarohan Higher Secondary School, we focus on NCERT-based
+            Biology. At Arohan  Higher Secondary School, we focus on NCERT-based
             learning with an emphasis on high-yield topics, conceptual clarity,
             and time management strategies. Our structured course plan includes
             regular tests, revision classes, and interactive doubt-clearing
@@ -136,7 +137,7 @@ const PerfectPlatform = () => {
           <Link
             type="button"
             className="relative z-10 text-center text-[16px] text-roboto sm:text-[16px] w-[260px] md:w-[80%] py-2 font-bold rounded-full bg-[#ff5218] hover:bg-[#ff855c] transition-all duration-100 text-white mt-4 mb-4"
-            to="/iit-jee-neet"
+            to="/neet-medical"
             onClick={scrollToTop}
           >
             Learn more

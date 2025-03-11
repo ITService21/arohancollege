@@ -45,22 +45,22 @@ function DirectorMessage() {
                 <br />
                 <p>
                   <span class="font-semibold">Meet Our Director – Sumit Singh</span>,
-                  Aarohan Higher Secondary School is proud to be guided by the visionary leadership of our esteemed Director, Mr. Sumit Singh.
+                  Arohan  Higher Secondary School is proud to be guided by the visionary leadership of our esteemed Director, Mr. Sumit Singh.
                   A distinguished alumnus of <span class="font-semibold">NIT Patna</span>, where he earned his degree in <span class="font-semibold">Electrical Engineering</span>, He has dedicated his career to shaping young minds and fostering academic excellence.
                 </p>
 
                 <p class="mt-4">
-                  With a strong passion for education, he established Aarohan Higher Secondary School as a premier institution that seamlessly integrates schooling and coaching.
+                  With a strong passion for education, he established Arohan  Higher Secondary School as a premier institution that seamlessly integrates schooling and coaching.
                   Under his leadership, we provide 11th & 12th (CBSE & CHSE +2 Science) education, along with specialized coaching for IIT-JEE (Main & Advanced) and NEET (Medical) aspirants.
                   His commitment to quality education has helped numerous students achieve their dreams of entering India’s top engineering and medical colleges.
                 </p>
 
                 <p class="mt-4">
                   Mr. Singh believes in a student-centric approach, ensuring that every learner receives personalized guidance and mentorship.
-                  His expertise in competitive exam preparation, coupled with innovative teaching methodologies, has made Aarohan Higher Secondary School a trusted name in the field of education.
+                  His expertise in competitive exam preparation, coupled with innovative teaching methodologies, has made Arohan  Higher Secondary School a trusted name in the field of education.
                 </p>
                 <p class="mt-4">
-                  With a mission to empower students through knowledge, discipline, and perseverance, Mr. Sumit Singh continues to inspire and lead, making Aarohan Higher Secondary School a beacon of academic excellence.
+                  With a mission to empower students through knowledge, discipline, and perseverance, Mr. Sumit Singh continues to inspire and lead, making Arohan  Higher Secondary School a beacon of academic excellence.
                 </p>
               </div>
 

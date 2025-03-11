@@ -45,17 +45,17 @@ const ContactUs = [
   {
     icon: <FaFacebook />,
     Label: "Facebook",
-    link: "https://m.facebook.com/aarohansng/",
+    link: "https://m.facebook.com/Arohan sng/",
   },
   {
     icon: <FaInstagram />,
     Label: "Instagram",
-    link: "https://www.instagram.com/aarohangroupofeducation?utm_source=qr&igsh=MTkydDZxbmJkMXM1aQ==",
+    link: "https://www.instagram.com/Arohan groupofeducation?utm_source=qr&igsh=MTkydDZxbmJkMXM1aQ==",
   },
   {
     icon: <FaYoutube />,
     Label: "Youtube",
-    link: "https://youtube.com/@aarohangroupofeducation9550?si=dywwLl7Mjj9qCzyl",
+    link: "https://youtube.com/@Arohan groupofeducation9550?si=dywwLl7Mjj9qCzyl",
   },
   {
     icon: <FaEnvelope />,
@@ -217,11 +217,11 @@ const Footer = () => {
                         <div
                           onClick={() => {
                             window.location.href =
-                              "mailto:school@aarohansng.com";
+                              "mailto:school@Arohan sng.com";
                           }}
                           className="my-auto ml-1"
                         >
-                          school@aarohansng.com
+                          school@Arohan sng.com
                         </div>
                       </div>
                     </div>
@@ -258,7 +258,7 @@ const Footer = () => {
                     Designed By Sunsoft Digital Solution
                   </div>
                   <p className="text-sm text-center md:text-left text-[15px]">
-                    © {new Date().getFullYear()} Aarohan Higher Secondary School. All Rights
+                    © {new Date().getFullYear()} Arohan  Higher Secondary School. All Rights
                     Reserved.
                   </p>
                 </div>
