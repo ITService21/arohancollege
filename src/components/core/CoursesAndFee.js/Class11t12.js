@@ -1,17 +1,18 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const courses = [
   {
     "name": "IIT-JEE (Main) Classes",
     "description": "Our IIT-JEE (Main) Classes program is designed to strengthen students' conceptual understanding in Physics, Chemistry, and Mathematics. With a structured curriculum, experienced faculty, and regular practice tests, we ensure students build problem-solving skills essential for cracking JEE Main. We provide personalized mentoring, doubt-clearing sessions, and strategic study plans to maximize performance in the exam.",
-    "image": "/images/IIT_JEE_Main.jpeg",  // Replace with actual image URL
+    "image": "/images/jeemain.jpeg",  // Replace with actual image URL
     "totalFee": "₹ XX,XXX",  // Add the total fee amount
     "installments": ["₹ X,XXX", "₹ X,XXX", "₹ X,XXX"]  // Add installment details
   },
   {
     "name": "IIT-JEE (Advanced) Classes",
     "description": "Our IIT-JEE (Advanced) Classes program is designed for students aiming to secure top ranks in JEE Advanced and get admission into IITs. With an advanced curriculum, in-depth problem-solving techniques, and focused mentorship, we ensure students develop strong analytical skills. Our rigorous test series, detailed performance analysis, and competitive learning environment help students excel in this highly challenging exam.",
-    "image": "/images/IIT_JEE_Advanced.jpeg",  // Replace with actual image URL
+    "image": "/images/jee.jpeg",  // Replace with actual image URL
     "totalFee": "₹ XX,XXX",  // Add the total fee amount
     "installments": ["₹ X,XXX", "₹ X,XXX", "₹ X,XXX"]  // Add installment details
   }
@@ -36,12 +37,16 @@ const FeeStructure = () => {
               <h2 className="text-xl font-semibold text-gray-800">{course.name}</h2>
               <p className="text-gray-600 mt-2">{course.description}</p>
               <div className="mt-4">
-                <p className="text-lg font-semibold text-blue-500">Total Fee: {course.totalFee}</p>
-                <div className="mt-2">
+                {/* <p className="text-lg font-semibold text-blue-500">Total Fee: {course.totalFee}</p> */}
+                {/* <div className="mt-2">
                   <p className="text-gray-700">1st Installment: {course.installments[0]}</p>
                   <p className="text-gray-700">2nd Installment: {course.installments[1]}</p>
                   <p className="text-gray-700">3rd Installment: {course.installments[2]}</p>
-                </div>
+                </div> */}
+
+                <button className="px-6 py-2 text-gray-900 bg-gradient-to-r from-[#32b564] to-[#32b564] rounded-lg shadow-md  transition-all duration-300">
+                  <Link to="/contact-us">Contact</Link>
+                </button>
               </div>
             </div>
           </div>

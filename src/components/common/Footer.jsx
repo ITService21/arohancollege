@@ -86,10 +86,10 @@ const AboutUs = [
     name: "Academic Team",
     link: "/acedmic-team",
   },
-  {
-    name: "Admin Portal",
-    link: "/admin-panel",
-  },
+  // {
+  //   name: "Admin Portal",
+  //   link: "/admin-panel",
+  // },
 ];
 // {/* <img src={Logo} alt="" className="object-contain" /> */}
 const Footer = () => {
@@ -219,9 +219,9 @@ const Footer = () => {
                             window.location.href =
                               "mailto:school@Arohan sng.com";
                           }}
-                          className="my-auto ml-1"
+                          className="my-auto ml-1 text-nowrap"
                         >
-                          school@Arohan sng.com
+                          school@arohansng.com
                         </div>
                       </div>
                     </div>

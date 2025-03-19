@@ -10,7 +10,7 @@ function CounterSection() {
         <div className="mx-auto relative flex flex-col justify-center w-[80vw] sm:w-[250px] h-[280px] rounded-lg bg-yellow-100 group overflow-hidden">
           <div className="transition-all duration-300 group-hover:mb-32">
             <div className="text-4xl font-bold text-[#272727]">
-              <Counter targetNumber={8} duration={1000} className="counter" />
+              <Counter targetNumber={50} duration={1000} className="counter" />
             </div>
             <div className="text-gray-600">Dedicated Teachers</div>
           </div>
@@ -20,7 +20,7 @@ function CounterSection() {
         <div className="relative flex flex-col justify-center w-[80vw] sm:w-[250px] h-[280px] rounded-lg bg-pink-100 group overflow-hidden">
           <div className="transition-all duration-300 group-hover:mb-32">
             <div className="text-4xl font-bold text-[#272727]">
-              <Counter targetNumber={10} duration={1000} className="counter" />
+              <Counter targetNumber={70} duration={1000} className="counter" />
             </div>
             <div className="text-gray-600">Members</div>
           </div>
@@ -30,7 +30,7 @@ function CounterSection() {
         <div className="relative flex flex-col justify-center w-[80vw] sm:w-[250px] h-[280px] rounded-lg bg-blue-100 group overflow-hidden">
           <div className="transition-all duration-300 group-hover:mb-32">
             <div className="text-4xl font-bold text-[#272727]">
-              <Counter targetNumber={300} duration={1000} className="counter" />
+              <Counter targetNumber={5000} duration={1000} className="counter" />
             </div>
             <div className="text-gray-600">Students</div>
           </div>
@@ -40,7 +40,7 @@ function CounterSection() {
         <div className="relative flex flex-col justify-center w-[80vw] sm:w-[250px] h-[280px] rounded-lg bg-orange-400 group overflow-hidden">
           <div className="transition-all duration-300 group-hover:mb-32">
             <div className="text-4xl font-bold text-[#272727]">
-              <Counter targetNumber={30} duration={1000} className="counter" />
+              <Counter targetNumber={500} duration={1000} className="counter" />
             </div>
             <div className="text-gray-600">Toppers</div>
           </div>

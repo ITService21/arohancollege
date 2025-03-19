@@ -1,17 +1,18 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const courses = [
   {
     "name": "CBSE & CHSE +2 Science (Class 11)",
     "description": "Enroll in our CBSE & CHSE +2 Science program for Class 11 and build a strong foundation in Physics, Chemistry, Mathematics, and Biology. Our coaching center provides expert guidance, personalized mentoring, and rigorous test series to prepare students for board exams and competitive entrance tests like JEE and NEET.",
-    "image": "/images/SparksClass8_.jpeg",  // Replace with actual image URL
+    "image": "/images/11th .jpeg",  // Replace with actual image URL
     "totalFee": "₹ XX,XXX",  // Add the total fee amount
     "installments": ["₹ X,XXX", "₹ X,XXX", "₹ X,XXX"]  // Add installment details
   },
   {
     "name": "CBSE & CHSE +2 Science (Class 12)",
     "description": "Our CBSE & CHSE +2 Science program for Class 12 is designed to ensure excellence in board exams and competitive tests. With expert faculty, structured study materials, and regular doubt-clearing sessions, students receive the best preparation for JEE, NEET, and other competitive exams.",
-    "image": "/images/SparksClass8_.jpeg",  // Replace with actual image URL
+    "image": "/images/12th.jpeg",  // Replace with actual image URL
     "totalFee": "₹ XX,XXX",  // Add the total fee amount
     "installments": ["₹ X,XXX", "₹ X,XXX", "₹ X,XXX"]  // Add installment details
   }
@@ -51,11 +52,12 @@ const FeeStructure = () => {
               <h2 className="text-xl font-semibold text-gray-800">{course.name}</h2>
               <p className="text-gray-600 mt-2">{course.description}</p>
               <div className="mt-4">
-                <p className="text-lg font-semibold text-blue-500">Total Fee: {course.totalFee}</p>
+                {/* <p className="text-lg font-semibold text-blue-500">Total Fee: {course.totalFee}</p> */}
                 <div className="mt-2">
-                  <p className="text-gray-700">1st Installment: {course.installments[0]}</p>
-                  {/* <p className="text-gray-700">2nd Installment: {course.installments[1]}</p>
-                  <p className="text-gray-700">3rd Installment: {course.installments[2]}</p> */}
+                  {/* <p className="text-gray-700">1st Installment: {course.installments[0]}</p> */}
+                  <button className="px-6 py-2 text-gray-900 bg-gradient-to-r from-[#32b564] to-[#32b564] rounded-lg shadow-md  transition-all duration-300">
+                    <Link to="/contact-us">Contact</Link>
+                  </button>
                 </div>
               </div>
             </div>

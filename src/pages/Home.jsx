@@ -24,7 +24,7 @@ const Home = () => {
         <Features />
         <CounterSection />
           <InstructorSection />
-          {/* <div className="py-20 bg-gradient-to-b from-[#ffa55b] to-[#34fce1]"><ContactForm/></div> */}
+          <div className="py-20 bg-gradient-to-b from-[#ffa55b] to-[#34fce1]"><ContactForm/></div>
       {/* <FAQSection /> */}
       {/* <div className="relative mx-auto my-20 flex flex-col items-center justify-between gap-8 text-white mt-[30px] mb-[80px]">
         <h1 className="text-center text-4xl font-semibold -mb-[35px]"> Experiences shared by learners </h1>

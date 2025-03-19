@@ -29,7 +29,7 @@ export const academicTeam = [
         title:"Director - Administration",
         name:"PRIYAMADHAB PANIGARAHI",
         // education:"B. Tech. from NIT Patna",
-        photo:"/images/Team3.jpg"
+        photo:"/images/Team3.jpeg"
     },
     
 ]
