@@ -90,14 +90,30 @@ function VideoManager() {
         <div className=" grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 md:gap-10 lg:gap-14 lg:mx-10">
           {videoLink?.map((video, index) => (
             <div key={index} className="mb-4 border p-2 rounded">
-              <div className="video-container w-full bg-[#cf8989] rounded-[12px]">
+              <div               
+              className="w-full flex justify-center items-center"
+              style={{
+                minHeight: "400px",
+                maxWidth: "100%",
+                overflow: "hidden",
+                position: "relative",
+                border:"10px"
+              }}>
                 {/* Embedded Instagram Video */}
+
                 <blockquote
-                  className="instagram-media"
-                  data-instgrm-permalink={video?.link}
-                  data-instgrm-version="14"
-                  style={{ width: "100%", borderRadius: "10px" }}
-                ></blockquote>
+                className="instagram-media"
+                data-instgrm-permalink={video?.link}
+                data-instgrm-version="14"
+                style={{
+                  width: "100%",
+                  minHeight: "400px",
+                  maxWidth: "100%",
+                  borderRadius: "10px",
+                  overflow: "hidden",
+                  display: "block",
+                }}
+              ></blockquote>
               </div>
 
               <h3 className="text-lg font-rubik-vinyl font-bold my-1 max-h-[60px] overflow-hidden">

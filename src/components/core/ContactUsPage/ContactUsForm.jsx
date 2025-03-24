@@ -45,16 +45,17 @@ const ContactUsForm = () => {
         }
       }
       setLoading(true);
+      toast.success("Email sent successfully!");
+      setLoading(false);
       // const res = await axios.post("http://localhost:5005/contact", data);
-      const res = await axios.post(`${apiUrl}/contact`, data);
-      console.log("sgsddgg1",data)
+      const res = await axios.post(`https://arohancollege.onrender.com/contact`, data);
       if (res?.status === 200) {
         console.log("Email sent successfully:", res?.data?.message);
       } else {
         console.error("Failed to send email:", res?.data?.message);
       }
-      setLoading(false);
-      toast.success("Email sent successfully!");
+      // setLoading(false);
+      
       reset({
         // Reset the form only if successful
         email: "",

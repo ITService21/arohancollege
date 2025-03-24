@@ -24,7 +24,7 @@ function IITJEENEET() {
     ];
   return (
     <div className=" bg-gradient-to-b from-[#FFECD2] to-[#FCB69F] py-10 px-2 md:px-8 lg:px-12">
-      <h1 className="text-[#ff3434] text-[36px] md:text-[42px] lg:text-[50px] font-rubik-vinyl font-bold text-center pb-10">Courses & Fee Structure (Session 2025-26)</h1>
+      <h1 className="text-[#ff3434] text-[36px] md:text-[42px] lg:text-[50px] font-rubik-vinyl font-bold text-center pb-10">Medical Courses</h1>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 px-5">
         {courses.map((course, index) => (
           <div
@@ -47,7 +47,7 @@ function IITJEENEET() {
                   <p className="text-gray-700">3rd Installment: {course.installments[2]}</p>
                 </div> */}
                 <button className="px-6 py-2 text-gray-900 bg-gradient-to-r from-[#32b564] to-[#32b564] rounded-lg shadow-md  transition-all duration-300">
-                  <Link to="/contact-us">Contact</Link>
+                  <Link to="/contact-us">Contact Us</Link>
                 </button>
               </div>
             </div>

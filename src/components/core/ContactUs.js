@@ -54,9 +54,13 @@ function ContactUs() {
               <p className="font-cinzel text-[18px] mb-[1px] text-center">
                 +91 9555095503
               </p>
-              {/* <p className="font-cinzel text-[18px] mb-[1px] text-center">
-                +91 7380922230
-              </p> */}
+              <p className="font-cinzel text-[18px] mb-[1px] text-center">
+                +91 6372158712
+              </p>
+              <p className="font-cinzel text-[18px] mb-[1px] text-center">
+                +91 6372161857
+              </p>
+
             </div>
           </div>
 
@@ -64,7 +68,7 @@ function ContactUs() {
           <div
             className="flex flex-col items-center justify-center  shadow-lg rounded-[10px] hover:shadow-xl hover:bg-[#fbffe7] transition-shadow cursor-pointer bg-white pt-10 pb-12"
             onClick={() =>
-              (window.location.href = "mailto:school@Arohan sng.com")
+              (window.location.href = "mailto:school@aarohansng.com ")
             } 
           >
             <div className="m-4 flex ">
@@ -75,7 +79,7 @@ function ContactUs() {
                 Email Us
               </div>
               <p className="font-cinzel text-[18px] mb-[1px] text-center">
-              school@Arohan sng.com
+              school@aarohansng.com 
               </p>
             </div>
           </div>
@@ -85,7 +89,7 @@ function ContactUs() {
             className="flex flex-col items-center justify-center  shadow-lg rounded-[10px] hover:shadow-xl hover:bg-[#fbffe7] transition-shadow cursor-pointer bg-white pt-10 pb-12"
             onClick={() =>
               window.open(
-                "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3696.228045563481!2d84.04769967511281!3d22.117279279818543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a20ed7af86d698b%3A0x757c1b70bf868e5c!2sArohan %20(%20branch%203rd)!5e0!3m2!1sen!2sin!4v1739118736646!5m2!1sen!2sin"
+                "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3696.10090120345!2d84.02020357528738!3d22.122128279815065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjLCsDA3JzE5LjciTiA4NMKwMDEnMjIuMCJF!5e0!3m2!1sen!2sin!4v1742839023847!5m2!1sen!2sin"
               )
             }
           >
@@ -97,14 +101,14 @@ function ContactUs() {
                 Location
               </div>
               <p className="font-cinzel text-[18px] mb-[1px] text-center px-4 md:px-6">
-              Arohan  branch 2, Aranya Nagar, Sundargarh, Odisha 770001, India
+              Arohan higher secondary school, Aranya Nagar, Sundargarh, Odisha 770001, India
               </p>
             </div>
           </div>
         </div>
         <div className="w-auto h-[300px] md:h-[400px] lg:h-[500px] mx-2 md:mx-8 lg:mx-10 my-6 md:my-12 lg:my-16 border-2 md:border-[25px] border-[#131313]">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3696.228045563481!2d84.04769967511281!3d22.117279279818543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a20ed7af86d698b%3A0x757c1b70bf868e5c!2sArohan %20(%20branch%203rd)!5e0!3m2!1sen!2sin!4v1739118736646!5m2!1sen!2sin"
+            src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3696.10090120345!2d84.02020357528738!3d22.122128279815065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjLCsDA3JzE5LjciTiA4NMKwMDEnMjIuMCJF!5e0!3m2!1sen!2sin!4v1742839023847!5m2!1sen!2sin"
             width="100%"
             height="100%"
             style={{ border: 0 }}

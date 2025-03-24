@@ -267,7 +267,7 @@ const Footer = () => {
           </div>
 
           <div className="text-center order-first md:order-last px-[20px] p-[4px] leading-6 text-[15px]">
-          Aarohan Branch, 3, Mahesdihi Rd, Sriram Nagar, Sundargarh, Odisha 770001
+          Arohan higher secondary school, Aranya nagar Sundergarh, Odisha 770001
           <br />  +91 9555095503
           </div>
         </div>
