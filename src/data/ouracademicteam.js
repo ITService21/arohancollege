@@ -23,7 +23,7 @@ export const academicTeam = [
         title:"Assistant Managing Director(AMD)",
         name:"SATYAJIT DALAI",
         // education:"B. Tech. from NIT Patna",
-        photo:"/images/Team2.jpg"
+        photo:"/images/team2.jpg"
     },
     {
         title:"Director - Administration",
