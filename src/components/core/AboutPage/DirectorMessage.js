@@ -46,7 +46,7 @@ function DirectorMessage() {
                 <p>
                   <span class="font-semibold">Meet Our Director – Sumit Singh</span>,
                   Arohan  Higher Secondary School is proud to be guided by the visionary leadership of our esteemed Director, Mr. Sumit Singh.
-                  A distinguished alumnus of <span class="font-semibold">NIT Patna</span>, where he earned his degree in <span class="font-semibold">Electrical Engineering</span>, He has dedicated his career to shaping young minds and fostering academic excellence.
+                  A distinguished alumnus of <span class="font-semibold">NIT</span>, where he earned his degree in <span class="font-semibold">Electrical Engineering</span>, He has dedicated his career to shaping young minds and fostering academic excellence.
                 </p>
 
                 <p class="mt-4">
