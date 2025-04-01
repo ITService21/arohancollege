@@ -91,9 +91,7 @@ const ContactUsForm = () => {
   return (
     <form
       className="flex flex-col gap-7 "
-      // onSubmit={handleSubmit(submitContactForm)}
-       action="https://formsubmit.co/148b17f0d5dea2d200446092f4152e61"
-       method="POST"
+      onSubmit={handleSubmit(submitContactForm)}
     >
       <div className="flex flex-col gap-5 lg:flex-row">
         <div className="flex flex-col gap-2 lg:w-[48%]">
