@@ -217,11 +217,11 @@ const Footer = () => {
                         <div
                           onClick={() => {
                             window.location.href =
-                              "mailto:school@Arohan sng.com";
+                              "mailto:aarohansng@gmail.com";
                           }}
                           className="my-auto ml-1 text-nowrap"
                         >
-                          school@arohansng.com
+                          aarohansng@gmail.com
                         </div>
                       </div>
                     </div>

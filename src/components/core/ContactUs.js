@@ -68,7 +68,7 @@ function ContactUs() {
           <div
             className="flex flex-col items-center justify-center  shadow-lg rounded-[10px] hover:shadow-xl hover:bg-[#fbffe7] transition-shadow cursor-pointer bg-white pt-10 pb-12"
             onClick={() =>
-              (window.location.href = "mailto:school@aarohansng.com ")
+              (window.location.href = "mailto:aarohansng@gmail.com")
             } 
           >
             <div className="m-4 flex ">
@@ -79,7 +79,7 @@ function ContactUs() {
                 Email Us
               </div>
               <p className="font-cinzel text-[18px] mb-[1px] text-center">
-              school@aarohansng.com 
+              aarohansng@gmail.com
               </p>
             </div>
           </div>
