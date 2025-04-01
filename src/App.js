@@ -1,5 +1,6 @@
 import "./App.css";
 import { Route, Routes, useNavigate } from "react-router-dom";
+import { Helmet, HelmetProvider } from "react-helmet-async";
 import Home from "./pages/Home";
 import Navbar from "./components/common/Navbar";
 import Footer from "./components/common/Footer";
@@ -54,6 +55,13 @@ function App() {
  
 
   return (
+<HelmetProvider>
+    <Helmet>
+    <title>Arohan College - Best Coaching for IIT JEE & NEET</title>
+    <meta name="description" content="Join Arohan College for top-class coaching in IIT JEE, NEET, and CBSE schooling." />
+    <meta name="robots" content="index, follow" />
+  </Helmet>
+
     <div className="w-screen min-h-screen bg-richblack-900 flex flex-col font-inter">
       <Navbar />
       <WhatsAppIcon/>
@@ -178,6 +186,8 @@ function App() {
       </Routes>
       <Footer/>
     </div>
+
+</HelmetProvider>
   );
 }
 

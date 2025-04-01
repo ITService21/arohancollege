@@ -66,7 +66,7 @@ const ContactUsForm = () => {
       });
     } catch (error) {
       // toast.error("Email Sending Failed!")
-      console.log("ERROR MESSAGE on contact mail sending- ", error?.message);
+      console.log("error16", error);
       if (error?.message === "Please Add Phone no again!") {
         toast.error("Please Add Phone no Again!");
       } else {
@@ -91,7 +91,9 @@ const ContactUsForm = () => {
   return (
     <form
       className="flex flex-col gap-7 "
-      onSubmit={handleSubmit(submitContactForm)}
+      // onSubmit={handleSubmit(submitContactForm)}
+       action="https://formsubmit.co/148b17f0d5dea2d200446092f4152e61"
+       method="POST"
     >
       <div className="flex flex-col gap-5 lg:flex-row">
         <div className="flex flex-col gap-2 lg:w-[48%]">
